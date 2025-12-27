@@ -43,8 +43,8 @@ The Customer Order Analytics Dashboard is a data analytics project developed usi
 This project demonstrates my ability to work with structured data, perform analysis, and build interactive dashboards that deliver actionable business insights. It reflects practical skills in data modeling, visualization, and analytical thinking.
 
 ## DataSet
-<a href="https://github.com/sumantgouda/Customer-Order-Analytics-Dashboard-/blob/main/customers.csv">Customers</a></t>
-<a href="https://github.com/sumantgouda/Customer-Order-Analytics-Dashboard-/blob/main/order_items.csv">Order_items</a></t>
+* <a href="https://github.com/sumantgouda/Customer-Order-Analytics-Dashboard-/blob/main/customers.csv">Customers</a>
+* <a href="https://github.com/sumantgouda/Customer-Order-Analytics-Dashboard-/blob/main/order_items.csv">Order_items</a>
 <a href="https://github.com/sumantgouda/Customer-Order-Analytics-Dashboard-/blob/main/orders.csv">Orders</a>
 
 ## Dashboard Screenshot
