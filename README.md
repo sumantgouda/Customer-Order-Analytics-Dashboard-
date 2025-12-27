@@ -45,7 +45,7 @@ This project demonstrates my ability to work with structured data, perform analy
 ## DataSet
 * <a href="https://github.com/sumantgouda/Customer-Order-Analytics-Dashboard-/blob/main/customers.csv">Customers</a>
 * <a href="https://github.com/sumantgouda/Customer-Order-Analytics-Dashboard-/blob/main/order_items.csv">Order_items</a>
-<a href="https://github.com/sumantgouda/Customer-Order-Analytics-Dashboard-/blob/main/orders.csv">Orders</a>
+* <a href="https://github.com/sumantgouda/Customer-Order-Analytics-Dashboard-/blob/main/orders.csv">Orders</a>
 
 ## Dashboard Screenshot
 <a href="https://github.com/sumantgouda/Customer-Order-Analytics-Dashboard-/blob/main/Screenshot%20(109).png">View Dashboard</a>
